@@ -30,17 +30,17 @@ Uninsured patients show the highest churn rate. Without financial coverage, pati
 Elective specialties like Orthopedics show higher churn than ongoing-care specialties, as patients stop returning once their condition is treated.
 
 Key Insights from charts :
-Churned vs Retained  :  Dataset is relatively balanced between churned and retained patients
-Churn by Gender  :  Gender has minimal impact — both groups behave similar churn rate 
-Churn by Age  :   Youngergroup patients (18–30) churn the most
-Churn by Distance  :  Patients farther from the facility are more likely to stop visiting
-Churn by Wait  :  Wait time experience is strongly linked to higher churn
-Churn vs Satisfaction  :  Lower satisfaction scores directly correspond to higher churn rates
-Churn by Insurance  :  Uninsured patients churn the most due to financial burden
-Churn by Specialty  :  Elective specialties see higher churn than ongoing-care specialties
-Churn by Missed Appointments  :  More missed appointments strongly predict eventual churn
-Billing Issues vs Churn  :  Patients with billing problems churn at a significantly higher rate 
-Specialty vs Churn  :  Churned patients are present across all specialties, varying by visit volume
+Churned vs Retained  :  Dataset is relatively balanced between churned and retained patients . 
+Churn by Gender  :  Gender has minimal impact — both groups behave similar churn rate . 
+Churn by Age  :   Youngergroup patients (18–30) churn the most . 
+Churn by Distance  :  Patients farther from the facility are more likely to stop visiting . 
+Churn by Wait  :  Wait time experience is strongly linked to higher churn . 
+Churn vs Satisfaction  :  Lower satisfaction scores directly correspond to higher churn rates . 
+Churn by Insurance  :  Uninsured patients churn the most due to financial burden . 
+Churn by Specialty  :  Elective specialties see higher churn than ongoing-care specialties . 
+Churn by Missed Appointments  :  More missed appointments strongly predict eventual churn . 
+Billing Issues vs Churn  :  Patients with billing problems churn at a significantly higher rate . 
+Specialty vs Churn  :  Churned patients are present across all specialties, varying by visit volume . 
 Correlation Heatmap  :  Satisfaction scores negatively correlate with churn billing issues, missed appointments, and high costs positively correlate .confirming they are the primary drivers of patient disengagement.
 
 Recommendations to Reduce Churn :
@@ -58,4 +58,5 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
-Jupyter Notebook
+Jupyter Notebook 
+
