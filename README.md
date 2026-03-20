@@ -60,3 +60,6 @@ Matplotlib
 Seaborn
 Jupyter Notebook 
 
+Author 
+Chintakindi Jasnavi Email: chintakindijasnavi@gmail.com 
+GitHub: https://github.com/chintakindijasnavi-sudo/Patient-churn-analysis-/edit/main/README.md
