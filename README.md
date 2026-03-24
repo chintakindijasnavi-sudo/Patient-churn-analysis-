@@ -1,4 +1,7 @@
-# Patient-churn-analysis - Patient churn analysis using Python and EDA
+# Patient-Churn-Analysis - Patient churn analysis using Python and EDA
+
+# Dataset Link 
+https://www.kaggle.com/datasets/nudratabbas/patient-churn-prediction-dataset-for-healthcare
 
 Objective :
 Exploratory analysis of patient churn patterns to identify key factors influencing patient retention in healthcare services.
