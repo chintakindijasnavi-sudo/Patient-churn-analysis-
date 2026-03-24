@@ -1,4 +1,5 @@
-# Patient-Churn-Analysis - Patient churn analysis using Python and EDA
+# Patient-Churn-Analysis 
+Patient Churn Analysis using Python and EDA
 
 # Dataset Link 
 https://www.kaggle.com/datasets/nudratabbas/patient-churn-prediction-dataset-for-healthcare
