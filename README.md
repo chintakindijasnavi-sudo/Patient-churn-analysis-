@@ -1,4 +1,4 @@
-# Patient-Churn-Analysis 
+# Patient_Churn_Analysis 
 Patient Churn Analysis using Python and EDA
 
 # Dataset Link 
