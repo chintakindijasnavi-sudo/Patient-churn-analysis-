@@ -66,4 +66,5 @@ Jupyter Notebook
 
 Author 
 Chintakindi Jasnavi Email: chintakindijasnavi@gmail.com 
+linkedin: www.linkedin.com/in/chintakindi-jasnavi
 GitHub: https://github.com/chintakindijasnavi-sudo/Patient-churn-analysis-/edit/main/README.md
